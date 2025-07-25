@@ -1,0 +1,4 @@
+../Core/Src/ads1115.c:20:6:ADS1115_Config_SingleEnded	1
+../Core/Src/ads1115.c:35:9:ADS1115_ReadConversion	1
+../Core/Src/ads1115.c:45:7:ADS1115_ReadVoltage	1
+../Core/Src/ads1115.c:54:9:ADS1115_Read	4

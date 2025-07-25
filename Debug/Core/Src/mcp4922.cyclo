@@ -1,0 +1,3 @@
+../Core/Src/mcp4922.c:15:6:MCP4922_Write	1
+../Core/Src/mcp4922.c:32:6:MCP4922_WriteChannelA	1
+../Core/Src/mcp4922.c:36:6:MCP4922_WriteChannelB	1

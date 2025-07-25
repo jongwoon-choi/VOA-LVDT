@@ -1,0 +1,4 @@
+../Core/Src/telemetry.c:32:13:TelemetryTask	32	static
+../Core/Src/telemetry.c:43:6:EnqueueTelemetryPacket	32	static
+../Core/Src/telemetry.c:69:6:InitTelemetrySystem	48	static
+../Core/Src/telemetry.c:82:6:HAL_UART_TxCpltCallback	16	static,ignoring_inline_asm

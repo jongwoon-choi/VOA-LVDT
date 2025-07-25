@@ -1,0 +1,4 @@
+../Core/Src/telemetry.c:32:13:TelemetryTask	2
+../Core/Src/telemetry.c:43:6:EnqueueTelemetryPacket	2
+../Core/Src/telemetry.c:69:6:InitTelemetrySystem	1
+../Core/Src/telemetry.c:82:6:HAL_UART_TxCpltCallback	3

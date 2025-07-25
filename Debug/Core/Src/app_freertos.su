@@ -1,0 +1,7 @@
+../Core/Src/app_freertos.c:105:6:PositionLoopTask	24	static
+../Core/Src/app_freertos.c:218:6:StartDefaultTask	8	static
+../Core/Src/app_freertos.c:57:7:adc_to_current	0	static
+../Core/Src/app_freertos.c:62:6:UartTelemetryTask	72	static
+../Core/Src/app_freertos.c:82:6:CurrentLoopTask	24	static
+../Core/Src/app_freertos.c:123:6:StartControlTasks	128	static
+../Core/Src/app_freertos.c:176:6:MX_FREERTOS_Init	8	static

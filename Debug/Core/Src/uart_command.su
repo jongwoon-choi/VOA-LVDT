@@ -1,0 +1,3 @@
+../Core/Src/uart_command.c:35:6:ProcessUartCommand	80	static
+../Core/Src/uart_command.c:15:6:UartReceiveTask	88	static
+../Core/Src/uart_command.c:71:6:ParseUARTCommand	296	static
